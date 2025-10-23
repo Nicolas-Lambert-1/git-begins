@@ -1,0 +1,11 @@
+Cloner un repo : 
+git clone + URL du repo
+
+Push : 
+git add . = ajouter tout les fichiers au push
+git commit -m "Shell project report" = créer un commit
+git push origin main = push tout le dossier sur Github
+
+Bonus : 
+cd + (directory) = avancer dans répertoire fichier
+cd .. : revenir en arrière
