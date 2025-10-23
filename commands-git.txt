@@ -12,3 +12,8 @@ git pull origin main
 Bonus : 
 cd + (directory) = avancer dans répertoire fichier
 cd .. : revenir en arrière
+
+Branche :
+Créer branche = git branch <nom_branche>
+Changer branche = git checkout <nom_branche
+
